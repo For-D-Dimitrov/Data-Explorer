@@ -52,15 +52,4 @@ Statistics -  Display of total trips, total/average fare, total distance, averag
 
 
 
-Reflection
-What I'd Add With More Time:
-Edit Feature 
-	Right now you can only add or delete trips, which is kind of annoying. Being able to click on a trip and edit any field would be way more practical. Like if you accidentally typed the wrong fare or something, you have to delete the whole trip and re-add it.
-Better Filtering 
-	The search works but it's pretty basic. Would be cool to have dropdown filters like "show only trips from Dublin" or "show trips with rating 5 only" instead of just searching for text. Maybe even combine filters like "Dublin trips over €30".
-Visual Charts
-	All the stats are just numbers right now. Would be interesting to have graphs showing stuff like fare over time, distance distribution, or rating breakdowns. I looked into it but the graphing libraries seemed complicated for the time I had.
-Highlight Search Results - 
-	When you search, it just tells you how many matches it found. Would be better if it highlighted those terms, or sorted the text box to only show those terms on the screen
-More Statistics 
-	I added the basic ones (totals, averages) but stuff like "longest trip", "highest tip", "most common city", or "best rated trips" would make it more useful for actually analyzing the data.
+
