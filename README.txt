@@ -1,7 +1,4 @@
 This program is used to view, edit and calculate various things in a  a .cvs text file, specifically taxi/Uber trip data.
-
- VIDEO : https://youtu.be/pQmypcjQPkg
-
 Classes:
 
 -Main.java
@@ -49,6 +46,7 @@ Save to CSV - Export modified data back to file.
 Search - Find trips containing any search term and how many times it is found in the file 
 Sort - Arrange by any field (ID, city, distance, duration, fare, tip, rating), alphabetically or numerically.
 Statistics -  Display of total trips, total/average fare, total distance, average rating (it updates every time a data is updated)
+
 
 
 
